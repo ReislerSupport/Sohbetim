@@ -1,6 +1,6 @@
 <h1 align="center">Heroku'da Webhook İle Çalışan Deneysel Bir Bot</h1>
 <p align="center">
-  <a href="https://github.com/Turkce-Botlar-Sohbet/Telegram_Bot">
+  <a href="https://github.com/ReislerSupport/Sohbetim">
     <img src="https://socialify.git.ci/Turkce-Botlar-Sohbet/Telegram-Bot/image?description=1&font=Bitter&forks=1&issues=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F71149025%3Fs%3D200%26v%3D4&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="500">
   </a>
   <p align="center">
@@ -34,5 +34,5 @@ Detaylı Bilgi İçin: [Buraya Tıkla](https://telegra.ph/KENDİ-TELEGRAM-BOTUNU
 Botun Yazımında Kullanılan Kütüphane: [telegraf.js](https://telegraf.js.org)
 
 ### Telif Hakkı ve Lisans
-- Copyright &copy; 2021 &mdash; [Türkçe Botlar Sohbet](https://t.me/botsohbet)
+- Copyright &copy; 2021 &mdash; [Reisler SUPPORT ](https://t.me/ReislerSupport)
 - [MIT License](./LICENSE)
